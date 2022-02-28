@@ -6,5 +6,6 @@ header {
   -webkit-box-pack: centre;
       -ms-flex-pack: centre;
           justify-content: centre;
+  font-size: 25;
 }
 /*# sourceMappingURL=style.css.map */
